@@ -20,4 +20,7 @@ For more information on how to this works with other frontends/backends, head ov
 # Getting started
 
 > npm install, npm start, etc.
+---
+# Gitter Chat
 
+[![Gitter](https://badges.gitter.im/turkdevops/realword.svg)](https://gitter.im/turkdevops/realword?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
